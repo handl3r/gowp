@@ -1,0 +1,2 @@
+# gowp
+Go Worker Pool
